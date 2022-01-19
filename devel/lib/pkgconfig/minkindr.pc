@@ -1,0 +1,8 @@
+prefix=/home/qwerty/catkin_ws/devel
+
+Name: minkindr
+Description: Description of minkindr
+Version: 0.0.1
+Cflags: -I/home/qwerty/catkin_ws/src/nbvplanner/minkindr/minkindr/include
+Libs: -L${prefix}/lib 
+Requires: 

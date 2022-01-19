@@ -1,0 +1,8 @@
+prefix=/home/qwerty/catkin_ws/devel
+
+Name: prune_pointcloud
+Description: Description of prune_pointcloud
+Version: 0.0.0
+Cflags: -I/home/qwerty/catkin_ws/src/nbvplanner/prune_pointcloud/include
+Libs: -L${prefix}/lib 
+Requires: 
